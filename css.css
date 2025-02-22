@@ -1,3 +1,40 @@
-body{background-color: skyblue;}
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background: #d5e1ef;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Full viewport height */
+    }
+.attribution { 
+    font-size: 11px; 
+    text-align: center; }
+.attribution a { 
+    color: hsl(228, 45%, 44%); }
+#bg{
+    background-color:aliceblue;
+}
+#white bg{
+width:320px;
+height:499px;
+
+}
+code{
+    width:288px;
+    height:288px;
+    color:#2c7dfa;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+word{
+    width:288px;
+    height:131px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 40px;}
