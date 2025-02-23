@@ -16,9 +16,10 @@ body{
 #white bg{
 width:320px;
 height:499px;
+border: 2px solix black;
 
 }
-code{
+#code{
     width:288px;
     height:288px;
     color:#2c7dfa;
@@ -27,7 +28,7 @@ code{
     margin-top: 32px;
     margin-bottom: 32px;
 }
-word{
+#word{
     width:288px;
     height:131px;
     padding-top: 16px;
