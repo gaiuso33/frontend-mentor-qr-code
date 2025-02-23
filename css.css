@@ -10,25 +10,23 @@ body{
     text-align: center; }
 .attribution a { 
     color: hsl(228, 45%, 44%); }
-#bg{
-    background-color:aliceblue;
-}
-#white bg{
-width:320px;
-height:499px;
-border: 2px solix black;
+
+.white bg{
+    width:320px;
+    height:499px;
+    border: 2px solix white;
 
 }
-#code{
+
+img{
     width:288px;
     height:288px;
-    color:#2c7dfa;
     margin-left: 32px;
     margin-right: 32px;
     margin-top: 32px;
     margin-bottom: 32px;
 }
-#word{
+#word{    
     width:288px;
     height:131px;
     padding-top: 16px;
@@ -38,4 +36,5 @@ border: 2px solix black;
     text-align: center;
     margin-left: 32px;
     margin-right: 32px;
-    margin-bottom: 40px;}
+    margin-bottom: 40px;
+    border: 1px solid white;}
