@@ -1,6 +1,6 @@
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: #f4f4f4;
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,6 @@ h1 {
     color: gray;
 }
 
-/* Ensure Responsiveness */
 @media (max-width: 375px) {
     .container {
         padding: 15px;
