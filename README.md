@@ -15,17 +15,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./qr-code-component-main/images/qr code screenshot.png)
+!(./qr-code-component-main/images/qr code screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/gaiuso33/blog-preview-card-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -51,7 +49,7 @@ Areas I'd need to improve on is Responsive web development and use of Figma
 ## Author
 
 - Website - [OLUWOLE GAIUS](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gaiuso33)
+- Frontend Mentor - [@gaiuso33](https://www.frontendmentor.io/profile/gaiuso33)
 - Twitter - [@4charactas](https://www.twitter.com/4charactas)
 
 ## Acknowledgments
